@@ -19,7 +19,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1aHZbbDaVnL4Vmyipy3vWjjShs3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -29,6 +33,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="SvnConfiguration">
@@ -45,6 +50,7 @@
       <workItem from="1586394596937" duration="20547000" />
       <workItem from="1586535784876" duration="111000" />
       <workItem from="1586990379109" duration="2561000" />
+      <workItem from="1586996584353" duration="22000" />
     </task>
     <servers />
   </component>
@@ -52,10 +58,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1003" y="216" key="FileChooserDialogImpl" timestamp="1586413693031">
+    <state x="1003" y="216" key="FileChooserDialogImpl" timestamp="1586996603448">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1003" y="216" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586413693031" />
+    <state x="1003" y="216" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586996603448" />
     <state x="690" y="0" key="SettingsEditor" timestamp="1586395634285">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
