@@ -1,0 +1,15 @@
+/*style.css*/
+/* créé par Elise Habert */
+/* Le 22-04-2020 */
+
+body
+{
+    background: coral no-repeat;
+    width: 100% ; /* on peut prendre 100% de la largeur */
+    margin: auto; /* pour centrer le site en largeur */
+}
+
+h1 {
+    color: red;
+    font-size: 2em ;
+}

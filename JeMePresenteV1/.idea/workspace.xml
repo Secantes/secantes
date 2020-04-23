@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fdae83b9-9aa3-475a-8f7f-91f6a41b0f68" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/JeMePresente.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Kravmaga.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/bateau.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/musique-lecture.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/university-strasbourg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +55,7 @@
       <workItem from="1586990379109" duration="2561000" />
       <workItem from="1586996584353" duration="22000" />
       <workItem from="1586996607597" duration="409000" />
-      <workItem from="1586997043553" duration="1850000" />
+      <workItem from="1586997043553" duration="955000" />
     </task>
     <servers />
   </component>
@@ -72,10 +63,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1003" y="216" key="FileChooserDialogImpl" timestamp="1586999421661">
+    <state x="1003" y="216" key="FileChooserDialogImpl" timestamp="1586997009252">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1003" y="216" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586999421661" />
+    <state x="1003" y="216" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586997009252" />
     <state x="690" y="0" key="SettingsEditor" timestamp="1586395634285">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
