@@ -2,3 +2,76 @@
 /* créé par Elise Habert */
 /* Le 22-04-2020 */
 
+
+body
+{
+    width: 100%; /*Largeur du site*/
+    margin: auto; /* pour centrer le site en largeur */
+}
+
+#background {
+    width: 100%;
+    height: 100%;
+    background-image: url("../image/EH__9917.JPG");
+    background-repeat: no-repeat;
+    background-position: 100% 0%;
+    margin: auto; /* pour centrer le site en largeur */
+}
+#opak{
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 255, 0.3);
+}
+
+h1
+{
+    font-size: 36px;
+}
+
+h2
+{
+    font-size: 24px;
+}
+
+h1, h2
+{color: rgb(255,255,255)}
+{text-align: center}
+
+li
+{color: gray}
+
+p
+{ font-size: 14px}
+{text-justify: auto}
+
+/* lien non visité */
+ a:link {
+     color: aquamarine;
+ }
+/* lien visité */
+a:visited {
+    color: cadetblue;
+}
+/* souris sur le lien */
+a:hover {
+    text-decoration: underline;
+    text-decoration: coral;
+}
+/* lien sélécté */
+
+image
+{
+    size: 300px
+    }
+
+img:hover {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+    background-color: #008CBA;
+}
+.belleImage
+{
+    box-shadow:0 0 2px rgba(0, 140, 186, 0.5)
+}

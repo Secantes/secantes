@@ -2,21 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27aa9452-6200-41a3-b5e3-0d65a0c26d17" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/JeMePresenteV2/etudes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JeMePresenteV2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JeMePresenteV2/loisirs.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JeMePresenteV2/sports.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JeMePresente/.idea/JeMePresente.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JeMePresente/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JeMePresente/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JeMePresente/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JeMePresente/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JeMePresente/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JeMePresente/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JeMePresente/img/Kravmaga.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JeMePresente/img/bateau.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JeMePresente/img/musique-lecture.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JeMePresente/img/university-strasbourg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JeMePresente/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JeMePresenteV2/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JeMePresenteV2/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JeMePresenteV2/CSS/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/JeMePresenteV2/CSS/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JeMePresenteV2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/JeMePresenteV2/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +30,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/JeMePresente" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Boostrap" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="SvnConfiguration">
@@ -56,6 +45,8 @@
       <updated>1586996551040</updated>
       <workItem from="1586996552501" duration="29000" />
       <workItem from="1587595107586" duration="115000" />
+      <workItem from="1589409047935" duration="7000" />
+      <workItem from="1589410320427" duration="22000" />
     </task>
     <servers />
   </component>
@@ -63,13 +54,18 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1158" y="199" key="FileChooserDialogImpl" timestamp="1587595218580">
+    <state x="1158" y="199" key="FileChooserDialogImpl" timestamp="1589410338655">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="1158" y="199" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1589410338655" />
     <state x="1158" y="199" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1587595218580" />
     <state x="690" y="58" key="SettingsEditor" timestamp="1586996571459">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="58" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1586996571459" />
+    <state x="160" y="309" key="com.intellij.ide.util.TipDialog" timestamp="1589410321992">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="160" y="309" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1589410321992" />
   </component>
 </project>
