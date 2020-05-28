@@ -1,0 +1,81 @@
+@font-face {
+    font-family: "phantom";
+}
+
+/*general*/
+hr {
+    margin-bottom:30px;
+    margin-top:30px;
+    max-width: 50px;
+    border-width: 3px;
+}
+p {
+    text-align: center;
+    color: white;
+}
+
+/*main*/
+
+.main {
+    height: 100%;
+    background-image: url("../img/EliseHabert-train.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    position: center;
+    margin: auto;
+    padding: 5% 10% 5% 10%;
+}
+
+/*titre*/
+h1
+{
+    font-size: 2em;
+    color: white;
+    font-family: Helvetica, serif;
+    text-align: center;
+    margin: auto;
+}
+
+h2
+{
+    font-size: 2em;
+    color: white;
+    text-align: center;
+    margin: auto;
+}
+
+h3
+{
+    color: black;
+    font-size: 2em;
+    text-align: center;
+}
+
+/*lignes de separation*/
+
+.hrOrange {
+    border-color: orangered;
+}
+
+.hrBlanc {
+    border-color: white;
+}
+
+/*bouton*/
+
+.button
+{
+    border: 1px solid #fff;
+    background: transparent;
+    padding: 20px;
+    border-radius: 5px;
+    color: #fff;
+    transition: all 1s ease-in-out;}
+}
+.button:hover
+{
+    background-color: rgba(0, 0, 0, 0.6);
+    transition: all 1s ease-in-out;
+}
+
