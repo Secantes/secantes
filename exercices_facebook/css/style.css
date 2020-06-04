@@ -1,0 +1,47 @@
+.fondRouge
+{
+    background-color: red;
+    height: 1500px;
+}
+
+.fondBleu
+{
+    background-color: blue;
+    height: 1500px;
+}
+
+.fondVert
+{
+    background-color: green;
+    height: 100px;
+}
+
+.fondJaune
+{
+    background-color: yellow;
+    height: 100px;
+}
+
+.fondBlanc
+{
+    background-color: white;
+    height: 100px;
+}
+
+.row
+{
+    margin: auto;
+}
+
+.box {
+    padding: 0 0 0 0;
+}
+
+button
+{
+    width: min-content;
+    align-items: center;
+    margin: auto;
+    display: inline-block;
+    vertical-align: top;
+}

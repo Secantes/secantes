@@ -1,14 +1,15 @@
+/*
+<!-- style.css -->
+<!-- Par Elise Habert -->
+<!-- Le 20-05-2020 -->
+*/
+
 @font-face {
     font-family: "phantom";
 }
 
 /*general*/
-hr {
-    margin-bottom:30px;
-    margin-top:30px;
-    max-width: 50px;
-    border-width: 3px;
-}
+
 p {
     text-align: center;
     color: white;
@@ -22,12 +23,30 @@ p {
     background-repeat: no-repeat;
     background-position: center;
     margin: auto;
+    padding: 15% 15% 15% 15%;
 }
 
-/*titre*/
+/* subs */
+.sub1
+{
+    background-color: orangered;
+    padding: 5% 5% 5% 5%;
+}
+
+.sub2
+{
+    padding: 5% 5% 5% 5%;
+}
+
+.title
+{
+    padding: 2% ;
+}
+
+/*Texte*/
 h1
 {
-    font-size: 2em;
+    font-size: 4em;
     color: white;
     font-family: Helvetica, serif;
     text-align: center;
@@ -36,10 +55,15 @@ h1
 
 h2
 {
-    font-size: 2em;
+    font-size: 3em;
     color: white;
     text-align: center;
     margin: auto;
+}
+
+.h2-black
+{
+    color: black;
 }
 
 h3
@@ -49,7 +73,27 @@ h3
     text-align: center;
 }
 
+/*list*/
+
+.list
+{
+    text-align: center;
+}
+
+/*Icons*/
+.fas
+{
+    color: orangered;
+}
+
 /*lignes de separation*/
+
+hr {
+    margin-bottom:30px;
+    margin-top:30px;
+    max-width: 50px;
+    border-width: 3px;
+}
 
 .hrOrange {
     border-color: orangered;
@@ -75,4 +119,3 @@ h3
     background-color: rgba(0, 0, 0, 0.6);
     transition: all 1s ease-in-out;
 }
-
