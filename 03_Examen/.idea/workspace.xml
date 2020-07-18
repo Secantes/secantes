@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="09f50f50-8355-43bc-b29b-77a23de5fa33" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ejbwMIX5smWOCkzcuUmRMwiwdk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\OneDrive\Personnel\Formation\Dossier AEC web design\02_Techniques d'intégration des interfaces Web 1 - Gr. 1024\Int_web\03_Examen" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="09f50f50-8355-43bc-b29b-77a23de5fa33" name="Default Changelist" comment="" />
+      <created>1594838186687</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594838186687</updated>
+      <workItem from="1594838188037" duration="33396000" />
+      <workItem from="1594904368622" duration="54574000" />
+      <workItem from="1594991791117" duration="9457000" />
+      <workItem from="1595002299668" duration="31808000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="452" y="95" key="#Inspections" timestamp="1595008780046">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="452" y="95" key="#Inspections/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1595008780046" />
+    <state x="580" y="302" key="com.intellij.ide.util.TipDialog" timestamp="1595002299276">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="580" y="302" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1595002299276" />
+    <state x="2500" y="302" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1594904515153" />
+    <state x="1988" y="-25" width="1690" height="1018" maximized="true" key="dock-window-1" timestamp="1595013143183">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1988" y="-25" width="1690" height="1018" maximized="true" key="dock-window-1/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1595013143183" />
+    <state x="537" y="306" width="1395" height="1018" key="dock-window-2" timestamp="1595011179165">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="537" y="306" width="1395" height="1018" key="dock-window-2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1595011179165" />
+    <state x="2313" y="-23" width="1395" height="1018" maximized="true" key="dock-window-3" timestamp="1595031579677">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2313" y="-23" width="1395" height="1018" maximized="true" key="dock-window-3/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1595031579677" />
+    <state x="2083" y="0" width="1395" height="1018" key="dock-window-4" timestamp="1595030630488">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2083" y="0" width="1395" height="1018" key="dock-window-4/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1595030630488" />
+    <state x="2459" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1594876464236">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2459" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1594876464236" />
+  </component>
+</project>
