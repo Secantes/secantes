@@ -66,6 +66,8 @@
       <workItem from="1594904368622" duration="54574000" />
       <workItem from="1594991791117" duration="9457000" />
       <workItem from="1595002299668" duration="31808000" />
+      <workItem from="1595036201295" duration="73000" />
+      <workItem from="1595036342911" duration="21000" />
     </task>
     <servers />
   </component>
@@ -77,10 +79,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="452" y="95" key="#Inspections/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1595008780046" />
-    <state x="580" y="302" key="com.intellij.ide.util.TipDialog" timestamp="1595002299276">
+    <state x="580" y="302" key="com.intellij.ide.util.TipDialog" timestamp="1595036343150">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="580" y="302" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1595002299276" />
+    <state x="580" y="302" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1595036343150" />
     <state x="2500" y="302" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1594904515153" />
     <state x="1988" y="-25" width="1690" height="1018" maximized="true" key="dock-window-1" timestamp="1595013143183">
       <screen x="1920" y="0" width="1920" height="1040" />
